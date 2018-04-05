@@ -1,0 +1,31 @@
+.label {
+    font-size: 30px;
+    font-weight: 300px;
+}
+
+.buttons {
+    font-size: 19px;
+}
+
+.image {
+    font-size: 14px;
+}
+
+.btn-browse {
+    font-size: 29px;
+    display: inline-block;
+    padding-top: 10px;
+    margin-left: 2px;
+}
+
+.canvas {
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+.icon {
+    margin-right: 3px;
+}
+
