@@ -16,7 +16,7 @@ classification across 89k-word dictionary in 0.0434 seconds at average.
 
 ### Images
 
-![images](https://i.imgur.com/CuZQwWD.png)
+![images](https://i.imgur.com/PwYjTBA.png)
 
 ### Videos 
 
